@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ChristianRicardo/Ka/static/css/main.4307a90c.chunk.css",
-    "main.js": "/ChristianRicardo/Ka/static/js/main.f0f48f6d.chunk.js",
-    "main.js.map": "/ChristianRicardo/Ka/static/js/main.f0f48f6d.chunk.js.map",
+    "main.js": "/ChristianRicardo/Ka/static/js/main.fedf9aca.chunk.js",
+    "main.js.map": "/ChristianRicardo/Ka/static/js/main.fedf9aca.chunk.js.map",
     "runtime~main.js": "/ChristianRicardo/Ka/static/js/runtime~main.293bc16e.js",
     "runtime~main.js.map": "/ChristianRicardo/Ka/static/js/runtime~main.293bc16e.js.map",
     "static/js/2.97ca4e50.chunk.js": "/ChristianRicardo/Ka/static/js/2.97ca4e50.chunk.js",
     "static/js/2.97ca4e50.chunk.js.map": "/ChristianRicardo/Ka/static/js/2.97ca4e50.chunk.js.map",
     "index.html": "/ChristianRicardo/Ka/index.html",
-    "precache-manifest.fe008da38edab789fd53427ce568fc31.js": "/ChristianRicardo/Ka/precache-manifest.fe008da38edab789fd53427ce568fc31.js",
+    "precache-manifest.8c3f0897e338ee8f2c240dd95bbc8363.js": "/ChristianRicardo/Ka/precache-manifest.8c3f0897e338ee8f2c240dd95bbc8363.js",
     "service-worker.js": "/ChristianRicardo/Ka/service-worker.js",
     "static/css/main.4307a90c.chunk.css.map": "/ChristianRicardo/Ka/static/css/main.4307a90c.chunk.css.map",
     "static/media/christianalves-logo.png": "/ChristianRicardo/Ka/static/media/christianalves-logo.a5310422.png",
