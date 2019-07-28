@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ChristianRicardo/Ka/static/css/main.4307a90c.chunk.css",
+    "main.js": "/ChristianRicardo/Ka/static/js/main.f0f48f6d.chunk.js",
+    "main.js.map": "/ChristianRicardo/Ka/static/js/main.f0f48f6d.chunk.js.map",
+    "runtime~main.js": "/ChristianRicardo/Ka/static/js/runtime~main.293bc16e.js",
+    "runtime~main.js.map": "/ChristianRicardo/Ka/static/js/runtime~main.293bc16e.js.map",
+    "static/js/2.97ca4e50.chunk.js": "/ChristianRicardo/Ka/static/js/2.97ca4e50.chunk.js",
+    "static/js/2.97ca4e50.chunk.js.map": "/ChristianRicardo/Ka/static/js/2.97ca4e50.chunk.js.map",
+    "index.html": "/ChristianRicardo/Ka/index.html",
+    "precache-manifest.fe008da38edab789fd53427ce568fc31.js": "/ChristianRicardo/Ka/precache-manifest.fe008da38edab789fd53427ce568fc31.js",
+    "service-worker.js": "/ChristianRicardo/Ka/service-worker.js",
+    "static/css/main.4307a90c.chunk.css.map": "/ChristianRicardo/Ka/static/css/main.4307a90c.chunk.css.map",
+    "static/media/christianalves-logo.png": "/ChristianRicardo/Ka/static/media/christianalves-logo.a5310422.png",
+    "static/media/katy-malhas-logo.png": "/ChristianRicardo/Ka/static/media/katy-malhas-logo.4fa096be.png",
+    "static/media/style.css": "/ChristianRicardo/Ka/static/media/kv-design-footer.83e8f886.png",
+    "static/media/kv-design-foto.jpg": "/ChristianRicardo/Ka/static/media/kv-design-foto.8a67a09f.jpg",
+    "static/media/kv-design-logo.png": "/ChristianRicardo/Ka/static/media/kv-design-logo.4b8f31a5.png",
+    "static/media/kv-design-logosimples.png": "/ChristianRicardo/Ka/static/media/kv-design-logosimples.c1dcbf6a.png",
+    "static/media/logo-christian.png": "/ChristianRicardo/Ka/static/media/logo-christian.79d63d2a.png"
+  }
+}
